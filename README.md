@@ -2,7 +2,7 @@
 
 Contains samples for .NET MAUI Radio Button
 
-# Getting started with Radio Button control
+## Getting started with Radio Button control
 
 The .NET MAUI Radio Button is a selection control that allows users to select one option from a set. The two states of the radio button are checked and unchecked.
 
